@@ -1,16 +1,16 @@
 # 📱HackLab no seu telefone
-### Run Linux Desktop with GPU Acceleration on Android (No Root!)
-> Turn your Android phone into a powerful hacking machine with one command!
+### Use o Linux Desktop com aceleração de GPU diretamento no Android (Sem necessidade de Root!)
+> Transforme seu telefone com Android em um poderoso laboratório hacker com linha de comando!
 > 
 ![GPU](https://img.shields.io/badge/GPU-Accelerated-orange?style=for-the-badge)
 ![Root](https://img.shields.io/badge/Root-Not%20Required-brightgreen?style=for-the-badge)
 ---
-## 🚀 One-Command Installation
-Open **Termux** and paste this:
+## 🚀 Instale com um comando
+Abra o **Termux** e cole esse comando:
 ```bash
 curl -sL https://raw.githubusercontent.com/jarvesusaram99/termux-hacklab/main/install.sh | bash
 ```
-**Or using wget:**
+**wget (alternativa com o comando wget):**
 ```bash
 wget -O - https://raw.githubusercontent.com/jarvesusaram99/termux-hacklab/main/install.sh | bash
 ```
@@ -27,7 +27,7 @@ wget -O - https://raw.githubusercontent.com/jarvesusaram99/termux-hacklab/main/i
 | 📊 **Progress Bar** | See installation progress in real-time |
 | 🔊 **Audio Support** | PulseAudio for sound |
 ---
-## 🎮 GPU Acceleration - What Makes This Special
+## 🎮 Aceleração com GPU - What Makes This Special
 Unlike other guides that use **slow software rendering**, this installer sets up **real GPU acceleration**:
 | Without GPU Accel | With GPU Accel (This Script) |
 |-------------------|------------------------------|
@@ -132,7 +132,7 @@ Pull requests welcome! Feel free to:
 If this helped you, please give it a **star** ⭐ - it helps others find this project!
 ---
 <p align="center">
-  <b>🔥 Run Linux with GPU Acceleration - No Root Required! 🔥</b>
+  <b>🔥 Use o Linux com aceleração de GPU - Sem Necessidade de Root! 🔥</b>
   <br><br>
   Criado por ❤️ <b>Tech Jarves</b> traduzido por <b>Jimmy Felipe</b>
 </p>
